@@ -1,0 +1,14 @@
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\bin\Debug\net7.0\Practicheskay3Step.exe
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\bin\Debug\net7.0\Practicheskay3Step.deps.json
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\bin\Debug\net7.0\Practicheskay3Step.runtimeconfig.json
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\bin\Debug\net7.0\Practicheskay3Step.dll
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\bin\Debug\net7.0\Practicheskay3Step.pdb
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\obj\Debug\net7.0\Practicheskay3Step.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\obj\Debug\net7.0\Practicheskay3Step.AssemblyInfoInputs.cache
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\obj\Debug\net7.0\Practicheskay3Step.AssemblyInfo.cs
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\obj\Debug\net7.0\Practicheskay3Step.csproj.CoreCompileInputs.cache
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\obj\Debug\net7.0\Practicheskay3Step.dll
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\obj\Debug\net7.0\refint\Practicheskay3Step.dll
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\obj\Debug\net7.0\Practicheskay3Step.pdb
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\obj\Debug\net7.0\Practicheskay3Step.genruntimeconfig.cache
+C:\Users\sidor\source\repos\Practicheskay3Step\Practicheskay3Step\obj\Debug\net7.0\ref\Practicheskay3Step.dll
